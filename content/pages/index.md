@@ -19,7 +19,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: 'https://gpmf.world/speaker/ivan-alves-moreira/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
