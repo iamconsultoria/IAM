@@ -9,15 +9,15 @@ sections:
       type: TitleBlock
     subtitle: 'Last May, Ivan was one of the invited speakers of GPMF 2025 in Riyadh  '
     text: >
-      #### TECHNICAL TRACK: The Tech Revolution: How Portfolio, Program, and
-      Project Management is Evolving for the Future
+      #### The Tech Revolution: How Portfolio, Program, and Project Management
+      is Evolving for the Future
 
 
-      This session will explore the rapid shift of Portfolio, Program, and
-      Project Management toward technology-driven methodologies and tools. It
-      focuses on how technological advancements are redefining project
-      management practices, shaping the role of project managers, and setting
-      the stage for the profession's future.
+      The session explored the rapid shift of Portfolio, Program, and Project
+      Management toward technology-driven methodologies and tools. Focused on
+      how technological advancements are redefining project management
+      practices, shaping the role of project managers, and setting the stage for
+      the profession's future.
     actions:
       - label: Get started
         altText: ''
