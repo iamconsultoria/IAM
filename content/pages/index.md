@@ -17,7 +17,7 @@ sections:
       practices, shaping the role of project managers, and setting the stage for
       the profession's future.
     actions:
-      - label: Get started
+      - label: Read more
         altText: ''
         url: 'https://gpmf.world/speaker/ivan-alves-moreira/'
         showIcon: false
